@@ -15,7 +15,7 @@ mathjax:
 ---
 "Y repetía el poeta: 'Creo que siempre es preferible la neurosis a la imbecilidad.'"
 
-__This line__ comes from the short story *El pájaro azul*, the Blue Bird, first published in the book *Azul* in 1888. The author is Rubén Darío, a Nicaraguan poet who started a literary movement that I don't really remember the significance of. However, I do remember this story, which I came across while trying desperately to come up with a topic for my final paper. Here's [the full text](http://www.damisela.com/literatura/pais/nicaragua/autores/dario/azul/pajaro_p3.htm) if you know Spanish and want to soak it in, otherwise tl;dr —
+__This line__ comes from the short story *El pájaro azul*, the Blue Bird, first published in Rubén Darío's book *Azul* in 1888. Darío was a Nicaraguan poet and the founder of a literary movement that I don't quite remember the significance of. However, I do remember this story, which I came across while hunting around for a topic for my final paper. Here's [the full text](http://www.damisela.com/literatura/pais/nicaragua/autores/dario/azul/pajaro_p3.htm) if you know Spanish and want to soak it in, otherwise tl;dr —
 
 >Setting: cross between the cast of Rent and the students from Les Mis.
 >
@@ -25,11 +25,11 @@ __This line__ comes from the short story *El pájaro azul*, the Blue Bird, first
 >
 >There's a bit of character development: paternal disappointment, 20-something angst, and so on. At the end of the story, they find him sprawled across his bed with his brains blown out onto the pillow. The blue bird has been freed!
 
-I'll always remember the inital shock from the ending, but that wasn't the main part I took away from this work.
+I'll always remember the initial shock from the ending, but that wasn't the main part I took away from this work.
 
 -----
 
-__When I was in college__ (just a few short months ago at the time of writing), I sometimes had a feeling that I'd developed some slight neuroses as a result of all the classes and other commitments I had gotten myself into. When I contemplated the alternative though, not taking part in things and probably watching Netflix all day, I realized that I would never feel my most fulfilled as a person.
+__When I was in college__ (just a few short months ago at the time of writing), at times I had a feeling that I’d developed some slight neuroses. I had gotten myself into some intensive classes and lots of side work, but I always thought that was better than the alternative. If I resigned myself to not taking part in the world and bingeing on Netflix, I realized that I would never feel my most fulfilled as a person.
 
 It occurred to me that I need my neurosis to keep my stupidity at bay.
 
