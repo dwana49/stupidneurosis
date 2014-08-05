@@ -15,9 +15,7 @@ mathjax:
 ---
 "Y repetía el poeta: 'Creo que siempre es preferible la neurosis a la imbecilidad.'"
 
-This line comes from the short story *El pájaro azul*, the Blue Bird, first published in the book *Azul* in 1888. The author is Rubén Darío, a Nicaraguan poet who started a literary movement that I don't really remember the significance of. However, I do remember this story, which I came across while trying desperately to come up with a topic for my final paper.
-
-Here's [the full text](http://www.damisela.com/literatura/pais/nicaragua/autores/dario/azul/pajaro_p3.htm) if you know Spanish and want to soak it in, otherwise tl;dr —
+__This line__ comes from the short story *El pájaro azul*, the Blue Bird, first published in the book *Azul* in 1888. The author is Rubén Darío, a Nicaraguan poet who started a literary movement that I don't really remember the significance of. However, I do remember this story, which I came across while trying desperately to come up with a topic for my final paper. Here's [the full text](http://www.damisela.com/literatura/pais/nicaragua/autores/dario/azul/pajaro_p3.htm) if you know Spanish and want to soak it in, otherwise tl;dr —
 
 >Setting: cross between the cast of Rent and the students from Les Mis.
 >
@@ -31,11 +29,10 @@ I'll always remember the inital shock from the ending, but that wasn't the main 
 
 -----
 
-###When I was in college
-(just a few short months ago at the time of writing), I sometimes had a feeling that I'd developed some slight neuroses as a result of all the classes and other commitments I had gotten myself into. When I contemplated the alternative though, not taking part in things and probably watching Netflix all day, I realized that I would never feel my most fulfilled as a person.
+__When I was in college__ (just a few short months ago at the time of writing), I sometimes had a feeling that I'd developed some slight neuroses as a result of all the classes and other commitments I had gotten myself into. When I contemplated the alternative though, not taking part in things and probably watching Netflix all day, I realized that I would never feel my most fulfilled as a person.
 
 It occurred to me that I need my neurosis to keep my stupidity at bay.
 
-So I've taken up the poet's neurosis as my rallying cry and the uncaged blue bird as my emblem. Therein lies the meaning behind the blue bird bursting out the back of a head you see at the top of the page, in case you were curious. I'm always going to stay off the paths leading to flatness and tedium.
+So I've taken up the poet's neurosis as my rallying cry and the uncaged blue bird as my emblem. Therein lies the meaning behind the blue bird bursting out the back of a head you see at the top of the page, in case you were curious. That's one more example: I never knew much about vector art until I started fiddling with my logo for the site. To say I'm an expert on the topic now would be a lie, but it was fun to figure it out and I feel accomplished having created something. In that same spirit, I'm always going to stay off the paths leading to flatness and tedium. You're welcome to join me where the field of what's known drops away, and keep paddling onward.
 
-Stay neurotic, my friends
+### Stay neurotic, my friends.
