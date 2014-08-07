@@ -15,6 +15,13 @@
 /* GENERAL TYPOGRAPHY RULES */
 /* ------------------------ */
 /* - Body typography - */
+
+/* Dan's custom CSS */
+
+.blue {
+	color: blue;
+}
+
 body {
   -webkit-font-smoothing: antialiased;
 }
