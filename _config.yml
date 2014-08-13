@@ -29,16 +29,16 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        dwana49
-  facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
+  facebook:       dwana49
+  github:         dwana49
+  stackexchange:  
+  linkedin:       
   instagram:      
   flickr:         
   tumblr:         
-  hmfaysalsocial: hmfaysal
+  hmfaysalsocial: 
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
@@ -87,8 +87,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://dwana49.github.io/stupidneurosis/'
+  relativeLinks: 'http://dwana49.github.io/stupidneurosis/links.jsonp'
   media: 'images'
   metadata:
     _posts:

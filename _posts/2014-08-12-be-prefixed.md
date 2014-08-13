@@ -90,7 +90,7 @@ and its less appropriate cousin,
 
 + 1768: He so _be-blockheaded_ and be-blunderbust me about as was enough to hurry anybody and throw them off their guard.
 
-## (6.) Forming trans. verbs on substantives used in an instrumental relation; the primary idea being;
+## 6. Forming trans. verbs on substantives used in an instrumental relation; the primary idea being;
 
 (a.) To surround, cover, or bedaub with, as in _becloud_ v., to put clouds about, cover with clouds, _bedew_ v.;
 
