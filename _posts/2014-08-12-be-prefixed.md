@@ -6,7 +6,7 @@ description: The blooper reel of the English language
 headline: Be-bothered and be-wildered
 modified: 2014-08-13
 category: personal
-tags: [English, humor, language, grammar]
+tags: [English, humor, language, grammar, Misadventures in the English Language]
 image: 
   feature: bewitched.jpg
 comments: true
@@ -26,7 +26,7 @@ I had intended to simply make a cursory glance at the time periods of some of th
 
 ## 1. Forming derivative verbs, with sense of ‘around’:
 
-(b.) from side to side (within a space), to and fro, in all directions, in all ways, in or through all its parts, thoroughly, as in bestir v., bejumble.
+(b.) from side to side (within a space), to and fro, in all directions, in all ways, in or through all its parts, thoroughly, as in _bestir_ v., bejumble.
 
 ### befrounce, v. Obs.: to frounce or toss about, touzle.
 
@@ -121,11 +121,11 @@ and its less appropriate cousin,
 
 ### to be-Mary: to give us too much of ‘Mary,’
 
-+ 1812   G. Colman Poet. Vagaries 82   The world has been much _be-Mary'd_, of late..we have innumerable sweet little Stanzas..ending with ‘my Mary.’
++ 1812: The world has been much _be-Mary'd_, of late..we have innumerable sweet little Stanzas..ending with ‘my Mary.’
 
 Also, these _be-_ verbs tend to come in flocks, and appear to have a more humorous tone, as indicated by these (and many of the previous) examples:
 
-+ 1602: He that minds trishtrash..Him will I _be-lish-lash_.
++ 1602: He that minds trishtrash..Him will I _be-lish-lash_.[^2]
 + 1863: Only a ‘small sin,’ a smug, _be-furred, be-combed, be-scented, be-ribboned, be-lady-loved_ ‘little fox!’
 
 And finally, even the grammar Nazis can get a kick out of a brief bout of beprefixed banter:
@@ -147,4 +147,6 @@ This conclucdes today's episode of _Misadventures in the English Language_. Hope
 ---
 
 Cover image credit: [Jerome K. Moore](http://jerome-k-moore.deviantart.com/art/BEWITCHED-REMAKE-288696743)
+
 [^1]: Regrettably, the OED is subscription-only, and I had to access it through my university's library page. If you have a UWEC username and password, you can read [the whole entry](http://www.oed.com.proxy.uwec.edu/view/Entry/16442?isAdvanced=false&result=5&rskey=bHMqgS&#contentWrapper) if you want, but I already put all the best parts up here. If you are a student at some other university, check your library's page to see if you have access to the OED. You can spend hours in there...
+[^2]: If you added one letter to that word, you'd get Littlefinger hitting somebody with a whip!
