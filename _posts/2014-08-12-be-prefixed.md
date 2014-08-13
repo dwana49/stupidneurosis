@@ -1,9 +1,9 @@
 ---
 
 layout: post
-title: "Be-prefixed"
+title: "Beprefixed"
 description: The blooper reel of the English language
-headline: Be-bothered and be-wildered
+headline: Bebothered and bewildered
 modified: 2014-08-13
 category: personal
 tags: [English, humor, language, grammar, Misadventures in the English Language]
