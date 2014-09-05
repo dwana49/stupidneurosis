@@ -103,7 +103,7 @@ and its less appropriate cousin,
 
 + 1393: Where lay _be~wimpled_ a visage.
 
-(b.) To affect with in any way, as in benight v., beguile n., befriend v.; In both sets there is often an accompanying notion of ‘thoroughly, excessively,’ as in 2.
+(b.) To affect with in any way, as in _benight_ v., _beguile_ n., _befriend_ v.; In both sets there is often an accompanying notion of ‘thoroughly, excessively,’ as in 2.
 
 ### befrumple, v. Obs.: to crease into frumples or clumsy folds.
 
@@ -140,13 +140,13 @@ And finally, even the grammar Nazis can get a kick out of a brief bout of bepref
 
 ---
 
-This conclucdes today's episode of _Misadventures in the English Language_. Hope to see you again!
+This concludes today's episode of _Misadventures in the English Language_. Hope to see you again!
 
 —Dan
 
 ---
 
-Cover image credit: [Jerome K. Moore](http://jerome-k-moore.deviantart.com/art/BEWITCHED-REMAKE-288696743)
+Cover image credit (which hasn't been loading correctly): [Jerome K. Moore](http://jerome-k-moore.deviantart.com/art/BEWITCHED-REMAKE-288696743)
 
 [^1]: Regrettably, the OED is subscription-only, and I had to access it through my university's library page. If you have a UWEC username and password, you can read [the whole entry](http://www.oed.com.proxy.uwec.edu/view/Entry/16442?isAdvanced=false&result=5&rskey=bHMqgS&#contentWrapper) if you want, but I already put all the best parts up here. If you are a student at some other university, check your library's page to see if you have access to the OED. You can spend hours in there...
 [^2]: If you added one letter to that word, you'd get Littlefinger hitting somebody with a whip!
