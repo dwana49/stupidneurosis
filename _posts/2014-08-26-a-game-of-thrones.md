@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gamen Cynestōla"
-description: "How George R. R. Martin subliminally transports his readers to olden times"
+description: "Or, how George R. R. Martin subliminally transports his readers to olden times"
 headline: 
 modified: 2014-09-05
 category: personal
